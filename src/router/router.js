@@ -4,6 +4,7 @@ import AboutPage from "../pages/AboutPage.vue";
 import ContactPage from "../pages/ContactPage.vue";
 import MoviesPage from "../pages/MoviesPage.vue";
 import NotFound from "../pages/NotFound.vue";
+import MovieDetails from "../pages/MovieDetails.vue";
 
 
 const router = createRouter({
@@ -28,6 +29,12 @@ const router = createRouter({
             path: '/movies',
             name: 'movies',
             component: MoviesPage
+        },
+        {
+            path: '/movies/:id',
+            name: 'MovieDetails',
+            component: MovieDetails,
+            props: true
         },
         {
             path: '/:pathMatch(.*)*',

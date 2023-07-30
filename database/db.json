@@ -1,5 +1,6 @@
-[
-  {
+{
+"movies": [
+  {"id":1,
     "Title": "Avatar",
     "Year": "2009",
     "Rated": "PG-13",
@@ -28,7 +29,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMDg1Nzk1MV5BMl5BanBnXkFtZTcwMDk0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
     ]
   },
-  {
+  {"id":2,
     "Title": "I Am Legend",
     "Year": "2007",
     "Rated": "PG-13",
@@ -42,7 +43,7 @@
     "Language": "English",
     "Country": "USA",
     "Awards": "9 wins & 21 nominations.",
-    "Poster": "https://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg",
+    "Poster": "https://resizing.flixster.com/vYsn-bvQtSrZJ3e_4nAdmkG89hA=/206x305/v2/https://flxt.tmsimg.com/assets/p170977_p_v7_ae.jpg",
     "Metascore": "65",
     "imdbRating": "7.2",
     "imdbVotes": "533,874",
@@ -56,7 +57,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTI2NjMzMzFeQTJeQWpwZ15BbWU2MDMwNDc3OA@@._V1_.jpg"
     ]
   },
-  {
+  {"id":3,
     "Title": "300",
     "Year": "2006",
     "Rated": "R",
@@ -83,7 +84,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjQzOTEwMV5BMl5BanBnXkFtZTcwMzE2NTIyMw@@._V1_SX1777_CR0,0,1777,947_AL_.jpg"
     ]
   },
-  {
+  {"id":4,
     "Title": "The Avengers",
     "Year": "2012",
     "Rated": "PG-13",
@@ -112,7 +113,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MzQ3NjA5N15BMl5BanBnXkFtZTcwMzY5OTY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
     ]
   },
-  {
+  {"id":5,
     "Title": "The Wolf of Wall Street",
     "Year": "2013",
     "Rated": "R",
@@ -141,7 +142,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMTg4MDI0Ml5BMl5BanBnXkFtZTgwOTY0MzQ4MDE@._V1_SY1000_CR0,0,1553,1000_AL_.jpg"
     ]
   },
-  {
+  {"id":6,
     "Title": "Interstellar",
     "Year": "2014",
     "Rated": "PG-13",
@@ -170,7 +171,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BNjYzNjE2NDk3N15BMl5BanBnXkFtZTgwNzEyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
     ]
   },
-  {
+  {"id":7,
     "Title": "Game of Thrones",
     "Year": "2011–",
     "Rated": "TV-MA",
@@ -200,7 +201,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMyMTRjZWEtM2UxMS00ZjU5LWIxMTYtZDA5YmJhZmRjYTc4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
     ]
   },
-  {
+  {"id":8,
     "Title": "Vikings",
     "Year": "2013–",
     "Rated": "TV-14",
@@ -230,7 +231,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxOTQ3NTA5N15BMl5BanBnXkFtZTgwMzExMDUxODE@._V1_SY1000_SX1500_AL_.jpg"
     ]
   },
-  {
+  {"id":9,
     "Title": "Gotham",
     "Year": "2014–",
     "Rated": "TV-14",
@@ -260,7 +261,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwODAyNjk0NF5BMl5BanBnXkFtZTgwODU4MzMyODE@._V1_SY1000_CR0,0,1500,1000_AL_.jpg"
     ]
   },
-  {
+  {"id":10,
     "Title": "Power",
     "Year": "2014–",
     "Rated": "TV-MA",
@@ -290,7 +291,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNTE0NDI1M15BMl5BanBnXkFtZTgwMDQyODA5NTE@._V1_SY1000_SX1500_AL_.jpg"
     ]
   },
-  {
+  {"id":11,
     "Title": "Narcos",
     "Year": "2015–",
     "Rated": "TV-MA",
@@ -320,7 +321,7 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzQ0OTAwNl5BMl5BanBnXkFtZTgwMDAyMzA1OTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
     ]
   },
-  {
+  {"id":12,
     "Title": "Breaking Bad",
     "Year": "2008–2013",
     "Rated": "TV-14",
@@ -351,7 +352,7 @@
     ]
   },
   {
-    "ComingSoon": true,
+    "ComingSoon": true,"id":13,
     "Title": "Doctor Strange",
     "Year": "2016",
     "Rated": "N/A",
@@ -379,7 +380,7 @@
     ]
   },
   {
-    "ComingSoon": true,
+    "ComingSoon": true,"id":14,
     "Title": "Rogue One: A Star Wars Story",
     "Year": "2016",
     "Rated": "N/A",
@@ -409,7 +410,7 @@
     ]
   },
   {
-    "ComingSoon": true,
+    "ComingSoon": true,"id":15,
     "Title": "Assassin's Creed",
     "Year": "2016",
     "Rated": "N/A",
@@ -438,7 +439,7 @@
     ]
   },
   {
-    "ComingSoon": true,
+    "ComingSoon": true,"id":16,
     "Title": "Luke Cage",
     "Year": "2016–",
     "Rated": "TV-MA",
@@ -468,4 +469,4 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjg5ODYwNF5BMl5BanBnXkFtZTgwMTE1NDU4OTE@._V1_SY1000_CR0,0,1477,1000_AL_.jpg"
     ]
   }
-]
+]}
